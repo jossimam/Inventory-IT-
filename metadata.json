@@ -1,0 +1,6 @@
+{
+  "name": "SIM Inventory IT RSIA Bina Medika",
+  "description": "Enterprise IT asset inventory, maintenance, helpdesk, borrowing, and movement tracking application for RSIA Bina Medika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
